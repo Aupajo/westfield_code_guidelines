@@ -3,7 +3,7 @@
 A styles and standards documentation effort to quickly ramp-up anyone writing code for Westfield Labs.
 
 ## Cofeescript
-[Coffeescript guidelines](https://github.com/polarmobile/coffeescript-style-guide)
+TBC
 
 ## CSS
 [CSS guidelines](css/)
